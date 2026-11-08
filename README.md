@@ -13,7 +13,8 @@ and are not covered by this licence.
 
 ## Files
 
-All sheets use 64 x 64 px frames, 9 columns (column 0 standing, 1-8 walking), rows facing up, left, down, right.
+All sheets use 64 x 64 px frames, rows facing up, left, down, right. The walk sheets have 9 columns (column 0 standing,
+1-8 walking); the idle and sitting sheets have 4 columns: at rest, breathing in (upper body 1 px higher), blinking, both.
 
 | File | What it is |
 |---|---|
@@ -23,6 +24,8 @@ All sheets use 64 x 64 px frames, 9 columns (column 0 standing, 1-8 walking), ro
 | `sprites/lpc_old_man_walk.png` | The old man with the cane, walk (4 rows). |
 | `sprites/lpc_old_woman_walk.png` | The old woman, walk (4 rows). |
 | `sprites/lpc_old_woman_shawl.png` | The old woman with her white cap recoloured into a dark wool shawl (4 rows). |
+| `sprites/*_idle.png` | Standing still, for each sheet above with the same name (same rows): breathing and blinking, made from that sheet's standing frame and the LPC "closed eyes" face. |
+| `sprites/lpc_protagonist_sit.png` | Protagonist sitting on a chair (4 rows), from the LPC sit parts; his coat is the LPC Cardigan recoloured like the frock coat, over the Longsleeve 2 Buttoned shirt. |
 | `sprites/old_woman_rocking.png` | 40 x 52 px: the old woman (from the shawl sheet) sitting in a side-view rocking chair. |
 | `sprites/old_woman_rocking_look.png` | The same, her head turned to the viewer. |
 
