@@ -28,7 +28,7 @@ All sheets use 64 x 64 px frames, rows facing up, left, down, right. The walk sh
 | `sprites/lpc_protagonist_sit.png` | Protagonist sitting on a chair (4 rows), from the LPC sit parts; his coat is the LPC Cardigan recoloured like the frock coat, over the Longsleeve 2 Buttoned shirt. |
 | `sprites/old_woman_rocking.png` | 40 x 52 px: the old woman (from the shawl sheet) sitting in a side-view rocking chair. |
 | `sprites/old_woman_rocking_look.png` | The same, her head turned to the viewer. |
-| `sprites/lpc_<name>_walk.png` | Prologue characters (full game, in development): colonel, mrs_vernon, guest_young, guest_stout, guest_lady_a, guest_lady_b, butler, innkeeper, bar_man, coachman. Walk (4 rows). |
+| `sprites/lpc_<name>_walk.png` | Prologue characters (full game, in development): colonel, mrs_vernon, guest_young, guest_stout, guest_lady_a, guest_lady_b, butler, innkeeper, bar_man, coachman, wife (the innkeeper's wife), child (the protagonist as a boy), mother. Walk (4 rows). |
 | `sprites/lpc_<name>_sit.png` | The same characters sitting on a chair (1 x 4: up, left, down, right). Coats and blouses swapped for a same-colour Cardigan or plain shirt, which have sitting frames. |
 | `props/lpc-tavern/` | Unchanged copies of the [LPC] Tavern sheets (CC-BY-SA 3.0) used for the prologue's inn. |
 

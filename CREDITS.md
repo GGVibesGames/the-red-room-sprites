@@ -69,6 +69,10 @@ Sheets `lpc_<name>_walk.png` and, where made, `lpc_<name>_sit.png`, built by `to
 - **Innkeeper** (`lpc_innkeeper_*.png`): Body Color (light), Revised Shoes (brown), Pants (brown), Longsleeve (white), Apron (leather), Human Male Plump (light), Neutral (light), Balding (light brown), Trimmed Beard (light brown).
 - **Man at the bar** (`lpc_bar_man_*.png`): Body Color (light), Revised Shoes (black), Pants (slate), Longsleeve (gray), Trench coat (dark gray), Human Male Gaunt (light), Neutral (light), Plain (black), 5 O'clock Shadow (black), Formal Bowler Hat (charcoal).
 - **Coachman** (`lpc_coachman_*.png`): Body Color (light), Revised Shoes (black), Pants (black), Longsleeve (gray), Iverness cloak (black), Human Male (light), Neutral (light), Plain (gray), Trimmed Beard (gray), Formal Tophat (black).
+- **The innkeeper's wife** (`lpc_wife_*.png`): Body Color (light), Revised Shoes (brown), Plain skirt (brown), Longsleeve blouse (white), Apron (white), Human Female (light), Neutral (light), Bangs bun (light brown).
+- **The protagonist as a child** (`lpc_child_*.png`): Body Color (child, light), Child pants (light blue), Child shirt (light blue), Human Child (light), Side Parted w/Bangs (dark brown).
+- **His mother** (`lpc_mother_*.png`): Body Color (light), Revised Shoes (white), Plain skirt (white), Longsleeve blouse (white), Human Female (light), Neutral (light), Long (chestnut).
+- Every prologue character also has `lpc_<name>_walk_idle.png` (breathing and blinking, as the other idle sheets).
 
 ### Original artists of these parts
 
@@ -112,6 +116,11 @@ Sheets `lpc_<name>_walk.png` and, where made, `lpc_<name>_sit.png`, built by `to
 - **Formal Bowler Hat** (hat/formal/bowler): bluecarrot16. Licence: CC-BY-SA 3.0 / GPL 3.0. Links: https://opengameart.org/content/lpc-gentleman, https://opengameart.org/content/lpc-expanded-hats-facial-helmets
 - **Iverness cloak** (torso/jacket/iverness): bluecarrot16. Licence: CC-BY-SA 3.0 / GPL 3.0. Links: https://opengameart.org/content/lpc-gentleman
 - **Formal Tophat** (hat/formal/tophat): bluecarrot16. Licence: CC-BY-SA 3.0 / GPL 3.0. Links: https://opengameart.org/content/lpc-gentleman, https://opengameart.org/content/lpc-expanded-hats-facial-helmets
+- **Body Color** (body/bodies/child): bluecarrot16, Benjamin K. Smith (BenCreating), ElizaWy, MuffinElZangano, Durrani, Nila122, kheftel, Stephen Challener (Redshrike). Licence: OGA-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0. Links: https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles, https://opengameart.org/content/lpc-child-standing-template, https://opengameart.org/content/lpc-children-walk-animation, https://opengameart.org/content/lpc-male-jumping-animation-by-durrani, https://opengameart.org/content/lpc-jump-expanded
+- **Human Child** (head/heads/human/child): Stephen Challener (Redshrike), kheftel, bluecarrot16. Licence: OGA-BY 3.0 / CC-BY 3.0 / GPL 3.0. Links: https://opengameart.org/content/lpc-child-standing-template, https://opengameart.org/content/lpc-character-bases
+- **Child pants** (legs/pants/child) and **Child shirt** (torso/clothes/shirt/child): Nila122. Licence: OGA-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0. Links: https://opengameart.org/content/lpc-clothes-for-children
+- **Side Parted w/Bangs** (hair/parted_side_bangs): JaidynReiman. Licence: OGA-BY 3.0+ / CC-BY 3.0+ / CC-BY-SA 3.0 / GPL 3.0. Links: https://opengameart.org/content/lpc-1-hairstyle-2-hair-extensions-3-previously-unofficially-released-hairstyles, https://github.com/jrconway3/Universal-LPC-spritesheet/commit/46ddcf05a0e43e7aa6ffd47d350eef0eb529ac24
+- **Long** (hair/long): see "Hair: Long" above.
 
 ## Props: [LPC] Tavern (`props/lpc-tavern/`)
 
